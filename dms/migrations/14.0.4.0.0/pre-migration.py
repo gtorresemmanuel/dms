@@ -4,8 +4,7 @@ from openupgradelib import openupgrade
 
 # User-provided thumbnails that were attachment=False
 column_renames = {
-    "dms_file": [("custom_thumbnail", None)],
-    "dms_directory": [("custom_thumbnail", None)],
+
 }
 
 
